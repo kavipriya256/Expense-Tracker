@@ -2,7 +2,7 @@
 "Django Expense Tracker"
 
 ## Description:
-|
+
   **A Web App To Track Expenses By Category Using Django.**  
   Features Include Adding Expenses, Viewing Totals, Filtering By Date/Category,  
   And A Dashboard With A Pie Chart.
